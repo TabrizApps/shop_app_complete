@@ -8,7 +8,6 @@ class Auth with ChangeNotifier{
 
   Future<void> signup(String email,String password) async {
 
-    const url=Urls.
 
   }
 }
